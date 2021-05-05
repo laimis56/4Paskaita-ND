@@ -1,0 +1,32 @@
+body {
+  margin:0;
+  background-color:#025955;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  font-family: Ubuntu ;
+ }
+ h1 {
+   text-transform: capitalize;
+ }
+ img {
+    border-radius: 10%;
+   
+   width: 20% ;
+   opacity: 0.9;
+   margin:  1% 1%;
+   border: 1px solid black;
+ }
+ p {
+   font-size: 150%;
+   text-shadow: 0 0 10px #926e6f;
+   letter-spacing: 2px;
+   word-spacing: 10px
+   text-align: justify;
+   pading: 0 10px
+ }
+ div{
+   margin: 0%;
+   background-color: #ffdf91;
+   border: 5px solid black;
+ }
